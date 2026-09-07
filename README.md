@@ -7,3 +7,6 @@
 - Họ tên: Ngô Thị Mỹ Dung
 - MSSV: 102230235
 - Lớp: 23T_DT2
+
+## Mục tiêu 
+Tìm hiểu Git và GitHub. 
